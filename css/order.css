@@ -1,0 +1,32 @@
+.order {
+    margin-top: 113px;
+}
+.order--trans {
+    background-image: url("../img/main_bg.png");
+    background-attachment: fixed;
+    background-position: 0 113px;
+}
+.order__text {
+    padding: 250px 2%;
+    display: inline-block;
+    width: 52%;
+    font-family: 'Roboto Condensed', sans-serif;
+    color: white;
+    filter: brightness(1);
+}
+.order__text h2 {
+    font-size: 6.25em;
+    text-transform: uppercase;
+    margin: 0;
+}
+.order__text p {
+    font-size: 4.375em;
+    font-weight: 700;
+}
+.order__text .order__text--yellow {
+    font-size: 1.85em;
+    color: #ffff00;
+}
+.order__text .order__text--bigger {
+    font-size: 1.85em;
+}
