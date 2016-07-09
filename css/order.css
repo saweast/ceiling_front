@@ -8,7 +8,7 @@
     background: rgba(0, 0, 0, 0.4);
 }
 .order__text {
-    padding: 250px 2%;
+    padding: 250px 2% 0;
     display: inline-block;
     width: 52%;
     font-family: 'Roboto Condensed', sans-serif;
@@ -39,6 +39,16 @@
     padding: 83px 4% 0 0;
     font-family: 'Roboto Condensed', sans-serif;
 }
+.order__form input[type="submit"] {
+    transition: .5s;
+    background-color: #ff6600;
+    color: white;
+    border: none;
+}
+.order__form input[type="submit"]:hover {
+    background-color: white;
+    color: #ff6600;
+}
 .order__form--yellow {
     font-size: 4.8125em;
     color: yellow;
@@ -50,6 +60,7 @@
     color: white;
     text-transform: uppercase;
     margin: 0;
+    margin-bottom: 15px;
 }
 .order__form form {
     box-sizing: border-box;
@@ -80,4 +91,27 @@
     font-size: 1.625em;
     padding-right: 40px;
     text-align: justify;
+}
+.order__help {
+    border-radius: 3px;
+    padding: 15px;
+    margin: 20px 10px;
+    background-color: rgba(0,0,0, 0.5);
+    font-size: 2em;
+    color: white;
+}
+.order__help p {
+    margin: 0;
+}
+.order__help .order__help--yellow {
+    color: #ffff00;
+    text-transform: uppercase;
+}
+.order .mouse {
+    position: relative;
+    margin-bottom: 25px;
+}
+.order .mouse img {
+    width: 32px;
+    margin: 0 calc(50% - 16px);
 }

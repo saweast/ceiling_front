@@ -35,14 +35,14 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="16"
-     inkscape:cx="-10.393326"
+     inkscape:cx="-3.6875"
      inkscape:cy="9.1027491"
      inkscape:document-units="px"
      inkscape:current-layer="g3746-4"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1027"
-     inkscape:window-x="1358"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      units="px"
@@ -84,11 +84,11 @@
       <g
          id="g3532"
          transform="matrix(1.2454776,0,0,-1.2454776,336.26099,27.359126)"
-         style="fill:#000000">
+         style="fill:#ffffff;fill-opacity:0.47843137">
         <path
            inkscape:connector-curvature="0"
            d="m 0,0 -1.133,0 0,-7.114 C -0.458,-7.507 0,-8.23 0,-9.066 L 0,-13.6 c 0,-1.252 -1.015,-2.267 -2.267,-2.267 -1.252,0 -2.266,1.015 -2.266,2.267 l 0,4.534 c 0,0.836 0.458,1.559 1.133,1.952 L -3.4,0 -4.533,0 C -9.54,0 -13.6,-4.06 -13.6,-9.066 l 0,-15.868 C -13.6,-29.94 -9.54,-34 -4.533,-34 L 0,-34 c 5.007,0 9.066,4.06 9.066,9.066 l 0,15.868 C 9.066,-4.06 5.007,0 0,0"
-           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           style="fill:#ffffff;fill-opacity:0.47843137;fill-rule:nonzero;stroke:none"
            id="path3534" />
       </g>
     </g>
